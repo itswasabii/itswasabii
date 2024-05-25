@@ -1,4 +1,4 @@
-# Hey, I'm Gideon Junior! 👋
+# Hey, I'm Gideon Ogot Junior! 👋
 
 Welcome to my little corner of the internet! I'm just a regular guy who loves bringing ideas to life through code. Right now, I'm knee-deep in Fullstack-Development, always on the lookout for cool projects and opportunities to learn and grow.
 
